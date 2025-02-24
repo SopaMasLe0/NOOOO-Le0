@@ -1,212 +1,66 @@
-[20:01:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:01:46] [ServerMain/INFO]: Loaded 1337 recipes
-[20:01:46] [ServerMain/INFO]: Loaded 1448 advancements
-[20:01:46] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:01:46] [Server thread/INFO]: Loading properties
-[20:01:46] [Server thread/INFO]: Default game type: SURVIVAL
-[20:01:46] [Server thread/INFO]: Generating keypair
-[20:01:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:01:46] [Server thread/INFO]: Using epoll channel type
-[20:01:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:01:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:01:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:01:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:01:46] [Server thread/INFO]: Preparing level "world"
-[20:01:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:01:50] [Server thread/INFO]: Time elapsed: 3391 ms
-[20:01:50] [Server thread/INFO]: Done (3.739s)! For help, type "help"
-[20:01:57] [Server thread/INFO]: Diegojg[/127.93.160.204:47879] logged in with entity id 10 at (-1215.5, 74.0, 1221.5)
-[20:01:57] [Server thread/INFO]: Diegojg joined the game
-[20:08:58] [Server thread/INFO]: Le0[/127.181.217.6:47673] logged in with entity id 1772 at (-1365.699999988079, -6.0, 1235.1856321743835)
-[20:08:58] [Server thread/INFO]: Le0 joined the game
-[20:09:06] [Server thread/INFO]: [Not Secure] <Diegojg> nosi
-[20:09:07] [Server thread/INFO]: [Not Secure] <Le0> SOPA TE VOY A CULIAAAAAAAAAAAAAAAAAR
-[20:09:14] [Server thread/INFO]: [Not Secure] <Diegojg> aaaaaaaaaaaah
-[20:09:31] [Server thread/INFO]: [Not Secure] <Le0> jksjksjks
-[20:10:35] [Server thread/INFO]: [Not Secure] <Diegojg> oe leo
-[20:10:39] [Server thread/INFO]: [Not Secure] <Diegojg> tai arriba?
-[20:10:46] [Server thread/INFO]: [Not Secure] <Le0> no wons
-[20:10:51] [Server thread/INFO]: [Not Secure] <Le0> toy en el tunel
-[20:10:54] [Server thread/INFO]: [Not Secure] <Le0> del chapo
-[20:11:00] [Server thread/INFO]: [Not Secure] <Diegojg> sajsaj
-[20:11:07] [Server thread/INFO]: [Not Secure] <Diegojg> yo estoy abajo en la caga de salon qlo
-[20:11:16] [Server thread/INFO]: [Not Secure] <Le0> no si
-[20:13:40] [Server thread/INFO]: [Not Secure] <Le0> oe tengo unas chuletas qlas
-[20:13:44] [Server thread/INFO]: [Not Secure] <Le0> son tuyas sopa?
-[20:13:51] [Server thread/INFO]: [Not Secure] <Diegojg> oe en vola si
-[20:13:55] [Server thread/INFO]: [Not Secure] <Diegojg> yo no tengo las mias
-[20:13:56] [Server thread/INFO]: [Not Secure] <Le0> XDDDDD
-[20:14:10] [Server thread/INFO]: [Not Secure] <Le0> Oe queri estafar
-[20:14:20] [Server thread/INFO]: [Not Secure] <Diegojg> jasjd
-[20:25:39] [Server thread/INFO]: [Not Secure] [Server] Sopa ctm esas chuletas son mias won
-[20:25:49] [Server thread/INFO]: [Not Secure] <Le0> XDDDDDDDD
-[20:25:56] [Server thread/INFO]: [Not Secure] [Server] esa excursion qla nos altero la economía mundial
-[20:26:37] [Server thread/INFO]: [Not Secure] <Diegojg> oe leo
-[20:26:40] [Server thread/INFO]: [Not Secure] <Diegojg> ontai
-[20:26:52] [Server thread/INFO]: [Not Secure] <Le0> en el tunel
-[20:29:35] [Server thread/INFO]: [Not Secure] [Server] en el trooono en el trono
-[20:30:15] [Server thread/INFO]: [Not Secure] [Server] Transformación Wuuaaakjsadkjeajhfaksdjashdajshdjashda
-[20:30:33] [Server thread/INFO]: [Not Secure] <Le0> almo esta cayendo en la locura
-[20:31:50] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:31:58] [Server thread/INFO]: [Not Secure] <Diegojg> vvoy a cruzar el portal
-[20:32:05] [Server thread/INFO]: [Not Secure] <Diegojg> se puede hacer mapa alla?
-[20:32:13] [Server thread/INFO]: [Not Secure] <Le0> nose xd
-[20:33:24] [Server thread/INFO]: [Not Secure] <Le0> aon ta sopa
-[20:33:31] [Server thread/INFO]: [Not Secure] <Le0> hay wnes afuera
-[20:33:38] [Server thread/INFO]: [Not Secure] <Diegojg> oe durmiendo
-[20:33:53] [Server thread/INFO]: [Not Secure] <Le0> ardan mrds
-[20:34:06] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:34:10] [Server thread/INFO]: [Not Secure] <Le0> oe quien puso esa wea de tierra en mi casa
-[20:34:15] [Server thread/INFO]: [Not Secure] <Diegojg> voy a cruzar y cachar si se puede hacer mapa
-[20:34:23] [Server thread/INFO]: [Not Secure] <Diegojg> nose wn
-[20:34:29] [Server thread/INFO]: [Not Secure] <Diegojg> en vola fue el enderman wn
-[20:34:35] [Server thread/INFO]: [Not Secure] <Diegojg> ese qlo de repente pone bloques qlos
-[20:34:36] [Server thread/INFO]: [Not Secure] <Le0> fuiste vo sopa qlo
-[20:34:41] [Server thread/INFO]: [Not Secure] <Diegojg> aparte que tiene pasto wn
-[20:34:53] [Server thread/INFO]: [Not Secure] <Diegojg> no se puede picar la wea y dejarla con pasto
-[20:34:56] [Server thread/INFO]: [Not Secure] <Diegojg> fue ese qli
-[20:35:14] [Server thread/INFO]: [Not Secure] <Diegojg> ni sherlock holmes te hace esa investigacion
-[20:35:28] [Server thread/INFO]: [Not Secure] <Le0> XD
-[20:35:55] [Server thread/INFO]: [Not Secure] <Diegojg> ya mrd
-[20:36:04] [Server thread/INFO]: Diegojg has made the advancement [We Need to Go Deeper]
-[20:36:32] [Server thread/INFO]: [Not Secure] <Diegojg> csssm
-[20:36:34] [Server thread/INFO]: [Not Secure] <Le0> q mierda paso
-[20:36:39] [Server thread/INFO]: [Not Secure] <Diegojg> oooh qlo
-[20:36:42] [Server thread/INFO]: [Not Secure] <Diegojg> me salve wn
-[20:36:46] [Server thread/INFO]: [Not Secure] <Diegojg> csm
-[20:36:54] [Server thread/INFO]: [Not Secure] <Diegojg> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[20:37:02] [Server thread/INFO]: [Not Secure] <Le0> habia un gast qlo
-[20:37:06] [Server thread/INFO]: [Not Secure] <Diegojg> si wn
-[20:37:08] [Server thread/INFO]: [Not Secure] <Diegojg> de frente
-[20:37:15] [Server thread/INFO]: [Not Secure] <Diegojg> y alcance a pasar de nuevo el portal
-[20:37:19] [Server thread/INFO]: [Not Secure] <Le0> la wea llego hasta aca afuera xdd
-[20:37:19] [Server thread/INFO]: [Not Secure] <Diegojg> lo iba a hacer mrd
-[20:37:30] [Server thread/INFO]: [Not Secure] <Le0> hizo cagar el arbol
-[20:37:31] [Server thread/INFO]: [Not Secure] <Diegojg> csm
-[20:37:37] [Server thread/INFO]: [Not Secure] <Diegojg> jasjasj
-[20:37:45] [Server thread/INFO]: [Not Secure] <Diegojg> qlo que tira la wea interdimensional
-[20:38:06] [Server thread/INFO]: [Not Secure] <Diegojg> aer denueo
-[20:38:14] [Server thread/INFO]: [Not Secure] <Diegojg> o awanta
-[20:38:32] [Server thread/INFO]: [Not Secure] <Le0> dale wons
-[20:38:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe teni obsidiana
-[20:39:02] [Server thread/INFO]: [Not Secure] <Le0> no wons
-[20:39:12] [Server thread/INFO]: [Not Secure] <Diegojg> tengo 3
-[20:39:21] [Server thread/INFO]: [Not Secure] <Diegojg> si lo rompe ojala no le rompa tantos bloques wn
-[20:39:29] [Server thread/INFO]: [Not Secure] <Diegojg> en caso de que el qlo me mande un wate
-[20:40:08] [Server thread/INFO]: [Not Secure] <Diegojg> pta el mono qlo
-[20:40:22] [Server thread/INFO]: [Not Secure] <Diegojg> mirando las 24hrs el portal de mrd
-[20:40:31] [Server thread/INFO]: [Not Secure] <Le0> tirale flechas al weon
-[20:40:31] [Server thread/INFO]: [Not Secure] <Diegojg> quemo los arboles csm
-[20:41:08] [Server thread/INFO]: [Not Secure] <Diegojg> oe casi quema tu caa
-[20:41:11] [Server thread/INFO]: [Not Secure] <Diegojg> casa
-[20:41:15] [Server thread/INFO]: [Not Secure] <Le0> oe nopo
-[20:42:01] [Server thread/INFO]: [Not Secure] [Server] Ghast spawn will be increased 
-[20:43:00] [Server thread/INFO]: [Not Secure] <Diegojg> ke wea dijo el server
-[20:43:08] [Server thread/INFO]: [Not Secure] <Diegojg> server no me escriba po
-[20:43:14] [Server thread/INFO]: [Not Secure] <Le0> XDDDDD
-[20:43:15] [Server thread/INFO]: [Not Secure] <Diegojg> si yo no se leer
-[20:43:49] [Server thread/INFO]: Summoned new Ghast
-[20:44:49] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:44:54] [Server thread/INFO]: [Not Secure] <Diegojg> tuve que traducir la mrd
-[20:45:00] [Server thread/INFO]: Summoned new Creeper
-[20:45:04] [Server thread/INFO]: [Not Secure] <Diegojg> decia que van a incrementar la aparicion de esas mrds
-[20:45:11] [Server thread/INFO]: [Not Secure] <Diegojg> oe duerme
-[20:45:16] [Server thread/INFO]: [Not Secure] <Le0> te van hacer el lov
-[20:45:27] [Server thread/INFO]: [Not Secure] <Diegojg> oee tutito
-[20:45:32] [Server thread/INFO]: Summoned new Ghast
-[20:45:33] [Server thread/INFO]: Summoned new Ghast
-[20:46:01] [Server thread/INFO]: [Not Secure] <Diegojg> wnnnnnn
-[20:46:08] [Server thread/INFO]: [Not Secure] <Diegojg> el mono qlo blanco esta arriba de tu casa
-[20:46:13] [Server thread/INFO]: [Not Secure] <Diegojg> no salgas de abajo wn
-[20:46:18] [Server thread/INFO]: [Not Secure] <Diegojg> o nose ontai
-[20:46:19] [Server thread/INFO]: [Not Secure] <Le0> XDDDD oe no wei
-[20:46:37] [Server thread/INFO]: [Not Secure] <Diegojg> oe de verda
-[20:46:48] [Server thread/INFO]: [Not Secure] <Diegojg> oe se fue
-[20:47:03] [Server thread/INFO]: [Not Secure] <Diegojg> taba arriba de tu casa weon
-[20:47:13] [Server thread/INFO]: [Not Secure] <Le0> se murio solo
-[20:47:32] [Server thread/INFO]: [Not Secure] <Diegojg> yo me escondi wn
-[20:47:40] [Server thread/INFO]: [Not Secure] <Diegojg> sino me iba a bombardear la casa qla
-[20:47:51] [Server thread/INFO]: [Not Secure] <Le0> no estara en la casa de almo
-[20:48:16] [Server thread/INFO]: [Not Secure] <Le0> hay esqueletos en la casa de la almohada
-[20:48:39] [Server thread/INFO]: [Not Secure] <Diegojg> si wn ajsjsaj
-[20:49:18] [Server thread/INFO]: [Not Secure] <Diegojg> la casa de almo es la casa de las desgracias
-[20:49:32] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:49:38] [Server thread/INFO]: [Not Secure] <Diegojg> voy a volver a entrar
-[20:50:14] [Server thread/INFO]: [Not Secure] <Le0> que weaaaaaaaaaaaa
-[20:50:17] [Server thread/INFO]: Summoned new Ghast
-[20:50:23] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:50:35] [Server thread/INFO]: [Not Secure] <Le0> se hizo mierda
-[20:50:46] [Server thread/INFO]: [Not Secure] <Diegojg> el portal cambio de lao
-[20:50:47] [Server thread/INFO]: [Not Secure] <Le0> lo esuchai sopa?
-[20:50:51] [Server thread/INFO]: [Not Secure] <Diegojg> si wn
-[20:50:55] [Server thread/INFO]: [Not Secure] <Le0> esta penando ctm
-[20:50:57] [Server thread/INFO]: [Not Secure] <Le0> XD
-[20:50:59] [Server thread/INFO]: [Not Secure] <Diegojg> oe que wea se hizo mrd
-[20:51:05] [Server thread/INFO]: [Not Secure] <Le0> los arboles wons
-[20:51:09] [Server thread/INFO]: [Not Secure] <Diegojg> oe wn
-[20:51:14] [Server thread/INFO]: [Not Secure] <Diegojg> el portal ahora quedo alla wn
-[20:51:18] [Server thread/INFO]: Summoned new Ghast
-[20:51:23] [Server thread/INFO]: [Not Secure] <Diegojg> alla sali
-[20:51:33] [Server thread/INFO]: [Not Secure] <Le0> se bugeo el weon
-[20:51:40] [Server thread/INFO]: [Not Secure] <Diegojg> ta arriba wn
-[20:51:45] [Server thread/INFO]: [Not Secure] <Le0> ctm
-[20:51:57] [Server thread/INFO]: [Not Secure] <Le0> al bosque sopa XDDD
-[20:52:01] [Server thread/INFO]: [Not Secure] <Le0> CORRE WONS
-[20:52:40] [Server thread/INFO]: [Not Secure] <Le0> te esta siguiendo?
-[20:52:53] [Server thread/INFO]: [Not Secure] <Diegojg> pta la wea se fue
-[20:53:02] [Server thread/INFO]: [Not Secure] <Diegojg> no encontre mis flechas csmmm
-[20:53:08] [Server thread/INFO]: [Not Secure] <Diegojg> iba a hacerlo re cagar
-[20:53:11] [Server thread/INFO]: [Not Secure] <Le0> se fue a la mierda
-[20:53:56] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[20:54:03] [Server thread/INFO]: [Not Secure] <Diegojg> voy a volver a entrar
-[20:54:04] [Server thread/INFO]: [Not Secure] <Diegojg> xd
-[20:54:14] [Server thread/INFO]: [Not Secure] <Le0> sopa de mierda wons
-[20:54:20] [Server thread/INFO]: [Not Secure] <Le0> traes demonios de alla
-[20:55:07] [Server thread/INFO]: [Not Secure] <Diegojg> mono de mrd wn
-[20:55:14] [Server thread/INFO]: [Not Secure] <Diegojg> campeando la caga de portal
-[20:55:35] [Server thread/INFO]: [Not Secure] <Diegojg> aers y si entro en el otro
-[21:01:00] [Server thread/INFO]: [Not Secure] <Diegojg> sexo a domicilio
-[21:01:01] [Server thread/INFO]: [Not Secure] <Le0> me veni a robar papa marikong
-[21:01:05] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:01:15] [Server thread/INFO]: [Not Secure] <Diegojg> oe qlo
-[21:01:19] [Server thread/INFO]: [Not Secure] <Diegojg> tenia uno de esos qlos
-[21:01:25] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[21:01:34] [Server thread/INFO]: [Not Secure] <Diegojg> y como trajiste esa wea viva
-[21:01:44] [Server thread/INFO]: [Not Secure] <Le0> oe en un balde
-[21:01:53] [Server thread/INFO]: [Not Secure] <Diegojg> y podi meter esa wea?
-[21:01:57] [Server thread/INFO]: [Not Secure] <Le0> si
-[21:02:01] [Server thread/INFO]: [Not Secure] <Le0> te da un logro la wea
-[21:02:07] [Server thread/INFO]: [Not Secure] <Diegojg> oeeee y este palacio
-[21:02:12] [Server thread/INFO]: [Not Secure] <Le0> te gusta mi pieza sopa
-[21:02:18] [Server thread/INFO]: [Not Secure] <Diegojg> uy
-[21:02:25] [Server thread/INFO]: [Not Secure] <Le0> XD
-[21:02:37] [Server thread/INFO]: [Not Secure] <Le0> almojaus
-[21:02:39] [Server thread/INFO]: [Not Secure] <Diegojg> oe qlo vo vivi re arriba
-[21:02:43] [Server thread/INFO]: [Not Secure] <Le0> la desalojaron
-[21:02:51] [Server thread/INFO]: [Not Secure] <Diegojg> casa qla
-[21:03:02] [Server thread/INFO]: [Not Secure] <Le0> oe pa q se vea todo el paisaje
-[21:03:03] [Server thread/INFO]: [Not Secure] <Diegojg> es la cuna de la depravacion
-[21:03:10] [Server thread/INFO]: [Not Secure] <Le0> XDDD
-[21:03:55] [Server thread/INFO]: [Not Secure] <Le0> q wea almo tiene un disco qlo XD
-[21:04:00] [Server thread/INFO]: [Not Secure] <Diegojg> si wn
-[21:04:19] [Server thread/INFO]: [Not Secure] <Diegojg> qlo que pone musica
-[21:04:59] [Server thread/INFO]: [Not Secure] <Diegojg> oe estos animales de mrd que no se callan wn
-[21:05:06] [Server thread/INFO]: [Not Secure] <Diegojg> ya me tienen aburrio las mrs
-[21:05:24] [Server thread/INFO]: [Not Secure] <Le0> jsjsjs
-[21:05:28] [Server thread/INFO]: [Not Secure] <Le0> como tan enojao
-[21:06:40] [Server thread/INFO]: [Not Secure] <Diegojg> mas ratito voy a matar a casi todas las mrs
-[21:07:04] [Server thread/INFO]: [Not Secure] <Diegojg> que crezcan las crias nomas y los voy a cazar
-[21:07:23] [Server thread/INFO]: [Not Secure] <Le0> oe eri un carnicero
-[21:08:55] [Server thread/INFO]: [Not Secure] <Diegojg> oe ya no se que wea hacer
-[21:09:27] [Server thread/INFO]: [Not Secure] <Le0> sopa te faltan metas en la vida
-[21:09:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe voy y vuelvo
-[21:10:03] [Server thread/INFO]: [Not Secure] <Le0> mentira esa wea
-[21:10:03] [Server thread/INFO]: [Not Secure] <Diegojg> voy a quedar aentro e mi casa
-[21:11:47] [Server thread/INFO]: [Not Secure] <Le0> tu arbol naranja se hizo mierda sopa
+[21:27:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:27:29] [ServerMain/INFO]: Loaded 1337 recipes
+[21:27:29] [ServerMain/INFO]: Loaded 1448 advancements
+[21:27:29] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:27:29] [Server thread/INFO]: Loading properties
+[21:27:29] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:29] [Server thread/INFO]: Generating keypair
+[21:27:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:29] [Server thread/INFO]: Using epoll channel type
+[21:27:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:27:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:27:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:27:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:27:29] [Server thread/INFO]: Preparing level "world"
+[21:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:33] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[21:27:33] [Server thread/INFO]: Time elapsed: 3939 ms
+[21:27:33] [Server thread/INFO]: Done (4.324s)! For help, type "help"
+[21:28:32] [Server thread/INFO]: Le0[/127.181.217.6:49957] logged in with entity id 10 at (-1268.512499988079, 79.29120014190713, 1243.3989299739123)
+[21:28:32] [Server thread/INFO]: Le0 joined the game
+[21:29:30] [Server thread/INFO]: Diegojg[/127.93.160.204:55433] logged in with entity id 501 at (-1227.074999988079, 74.0, 1225.102839652667)
+[21:29:30] [Server thread/INFO]: Diegojg joined the game
+[21:29:51] [Server thread/INFO]: [Not Secure] <Diegojg> oe wn
+[21:29:59] [Server thread/INFO]: [Not Secure] <Le0> aora soy almo
+[21:30:08] [Server thread/INFO]: [Not Secure] <Diegojg> ke weko
+[21:30:10] [Server thread/INFO]: [Not Secure] <Diegojg> jasjjsa
+[21:30:13] [Server thread/INFO]: [Not Secure] <Diegojg> oe wn
+[21:30:24] [Server thread/INFO]: [Not Secure] <Diegojg> la wea de reaparicion que te iba a dar no esta wn
+[21:30:32] [Server thread/INFO]: [Not Secure] <Diegojg> la tenia en la mano y ya no la tengo
+[21:30:40] [Server thread/INFO]: [Not Secure] <Diegojg> y no esta en tu casa ni en la mia
+[21:30:49] [Server thread/INFO]: [Not Secure] <Le0> XDDD
+[21:31:07] [Server thread/INFO]: [Not Secure] <Le0> Todo fue planeado por almo
+[21:31:10] [Server thread/INFO]: [Not Secure] <Diegojg> oe vai a tener que reparar tus weas en mi casa
+[21:31:11] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj
+[21:32:03] [Server thread/INFO]: [Not Secure] <Diegojg> oe
+[21:32:08] [Server thread/INFO]: [Not Secure] <Diegojg> como se usan las cargas igneas
+[21:32:28] [Server thread/INFO]: [Not Secure] <Le0> no me acuerdo pa q xuxa era eso xd
+[21:32:50] [Server thread/INFO]: [Not Secure] <Diegojg> oe tengo 2
+[21:33:11] [Server thread/INFO]: [Not Secure] <Diegojg> chucha
+[21:33:14] [Server thread/INFO]: [Not Secure] <Le0> queri q te folle
+[21:33:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe
+[21:33:21] [Server thread/INFO]: [Not Secure] <Diegojg> te pego algo?
+[21:33:23] [Server thread/INFO]: [Not Secure] <Diegojg> o no
+[21:33:26] [Server thread/INFO]: [Not Secure] <Le0> no jsjs
+[21:33:42] [Server thread/INFO]: [Not Secure] <Le0> jsjs q wea hizo
+[21:33:44] [Server thread/INFO]: [Not Secure] <Diegojg> oe es pa prender fuego
+[21:33:48] [Server thread/INFO]: [Not Secure] <Diegojg> la wea mala
+[21:33:54] [Server thread/INFO]: [Not Secure] <Diegojg> mas encima funciona una vez
+[21:34:01] [Server thread/INFO]: [Not Secure] <Diegojg> oeeeee
+[21:34:10] [Server thread/INFO]: [Not Secure] <Diegojg> yo tenia uno de esos
+[21:34:13] [Server thread/INFO]: [Not Secure] <Diegojg> mejor lo traia
+[21:34:18] [Server thread/INFO]: [Not Secure] <Diegojg> re cara sale la mrd
+[21:34:19] [Server thread/INFO]: [Not Secure] <Le0> oe lo acabo de hacer
+[21:34:24] [Server thread/INFO]: [Not Secure] <Le0> jsjs si
+[21:35:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe
+[21:36:02] [Server thread/INFO]: [Not Secure] <Diegojg> aca hay una pasada qla
+[21:36:27] [Server thread/INFO]: [Not Secure] <Le0> aonde
+[21:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1372, y=1, z=1114} jh{x=-1371, y=-1, z=1111}
+[21:37:16] [Server thread/INFO]: [Not Secure] <Diegojg> csm
