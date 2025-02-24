@@ -329,8 +329,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-02-24 18:51:03 +0000",
       "minecraft:skeleton": "2025-02-18 23:16:58 +0000",
       "minecraft:breeze": "2025-02-24 14:45:35 +0000",
+      "minecraft:silverfish": "2025-02-24 18:47:22 +0000",
       "minecraft:witch": "2025-02-23 04:20:34 +0000",
       "minecraft:spider": "2025-02-23 03:45:44 +0000",
       "minecraft:zombie": "2025-02-18 23:08:31 +0000",
@@ -2786,6 +2788,85 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-02-24 17:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-24 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-24 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-24 18:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-24 18:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-24 18:16:17 +0000",
+      "minecraft:basalt_deltas": "2025-02-24 18:19:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-02-24 18:37:38 +0000"
     },
     "done": true
   },
