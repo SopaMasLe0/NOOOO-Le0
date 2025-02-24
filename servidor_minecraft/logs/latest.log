@@ -1,0 +1,39 @@
+[17:08:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:08:46] [ServerMain/INFO]: Loaded 1337 recipes
+[17:08:46] [ServerMain/INFO]: Loaded 1448 advancements
+[17:08:46] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[17:08:46] [Server thread/INFO]: Loading properties
+[17:08:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:08:46] [Server thread/INFO]: Generating keypair
+[17:08:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:08:47] [Server thread/INFO]: Using epoll channel type
+[17:08:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:08:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:08:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:08:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:08:47] [Server thread/INFO]: Preparing level "world"
+[17:08:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:08:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:08:50] [Server thread/INFO]: Time elapsed: 2745 ms
+[17:08:50] [Server thread/INFO]: Done (2.972s)! For help, type "help"
+[17:09:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:10:27] [Server thread/INFO]: Le0[/[0:0:0:0:0:0:0:1%0]:41620] logged in with entity id 10 at (-1269.074999988079, 87.0625, 1238.9649854157929)
+[17:10:27] [Server thread/INFO]: Le0 joined the game
+[17:11:09] [Server thread/INFO]: ELPepsi[/[0:0:0:0:0:0:0:1%0]:34258] logged in with entity id 430 at (-1381.9584515956292, 62.9375, 1238.192670888173)
+[17:11:09] [Server thread/INFO]: ELPepsi joined the game
+[17:11:16] [Server thread/INFO]: [Not Secure] <Le0> elmierdas
+[17:11:52] [Server thread/INFO]: [Not Secure] <ELPepsi> mis weas las perdi toda leo qlo
+[17:12:21] [Server thread/INFO]: [Not Secure] <Le0> culpa de sopa
+[17:13:46] [Server thread/INFO]: [Not Secure] <ELPepsi> si
+[17:13:49] [Server thread/INFO]: [Not Secure] <ELPepsi> por no marcar las aldea
+[17:13:52] [Server thread/INFO]: [Not Secure] <ELPepsi> queria robarles libro
+[17:13:59] [Server thread/INFO]: [Not Secure] <ELPepsi> en mi avaricia lo perdí odo
+[17:16:20] [Server thread/INFO]: [Not Secure] <ELPepsi> le robe todo a sopa ahora me volví a armar
+[17:18:00] [Server thread/INFO]: [Not Secure] <ELPepsi> esquila tus wea de vaca pa sacarle cuero
+[17:18:07] [Server thread/INFO]: [Not Secure] <ELPepsi> degolla las wea, de ahi se sanan XD
+[17:18:18] [Server thread/INFO]: [Not Secure] <Le0> oe eri un cruel
