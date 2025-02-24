@@ -1,66 +1,50 @@
-[21:27:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:27:29] [ServerMain/INFO]: Loaded 1337 recipes
-[21:27:29] [ServerMain/INFO]: Loaded 1448 advancements
-[21:27:29] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[21:27:29] [Server thread/INFO]: Loading properties
-[21:27:29] [Server thread/INFO]: Default game type: SURVIVAL
-[21:27:29] [Server thread/INFO]: Generating keypair
-[21:27:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:27:29] [Server thread/INFO]: Using epoll channel type
-[21:27:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:27:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:27:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:27:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:27:29] [Server thread/INFO]: Preparing level "world"
-[21:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:27:33] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[21:27:33] [Server thread/INFO]: Time elapsed: 3939 ms
-[21:27:33] [Server thread/INFO]: Done (4.324s)! For help, type "help"
-[21:28:32] [Server thread/INFO]: Le0[/127.181.217.6:49957] logged in with entity id 10 at (-1268.512499988079, 79.29120014190713, 1243.3989299739123)
-[21:28:32] [Server thread/INFO]: Le0 joined the game
-[21:29:30] [Server thread/INFO]: Diegojg[/127.93.160.204:55433] logged in with entity id 501 at (-1227.074999988079, 74.0, 1225.102839652667)
-[21:29:30] [Server thread/INFO]: Diegojg joined the game
-[21:29:51] [Server thread/INFO]: [Not Secure] <Diegojg> oe wn
-[21:29:59] [Server thread/INFO]: [Not Secure] <Le0> aora soy almo
-[21:30:08] [Server thread/INFO]: [Not Secure] <Diegojg> ke weko
-[21:30:10] [Server thread/INFO]: [Not Secure] <Diegojg> jasjjsa
-[21:30:13] [Server thread/INFO]: [Not Secure] <Diegojg> oe wn
-[21:30:24] [Server thread/INFO]: [Not Secure] <Diegojg> la wea de reaparicion que te iba a dar no esta wn
-[21:30:32] [Server thread/INFO]: [Not Secure] <Diegojg> la tenia en la mano y ya no la tengo
-[21:30:40] [Server thread/INFO]: [Not Secure] <Diegojg> y no esta en tu casa ni en la mia
-[21:30:49] [Server thread/INFO]: [Not Secure] <Le0> XDDD
-[21:31:07] [Server thread/INFO]: [Not Secure] <Le0> Todo fue planeado por almo
-[21:31:10] [Server thread/INFO]: [Not Secure] <Diegojg> oe vai a tener que reparar tus weas en mi casa
-[21:31:11] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsaj
-[21:32:03] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[21:32:08] [Server thread/INFO]: [Not Secure] <Diegojg> como se usan las cargas igneas
-[21:32:28] [Server thread/INFO]: [Not Secure] <Le0> no me acuerdo pa q xuxa era eso xd
-[21:32:50] [Server thread/INFO]: [Not Secure] <Diegojg> oe tengo 2
-[21:33:11] [Server thread/INFO]: [Not Secure] <Diegojg> chucha
-[21:33:14] [Server thread/INFO]: [Not Secure] <Le0> queri q te folle
-[21:33:16] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[21:33:21] [Server thread/INFO]: [Not Secure] <Diegojg> te pego algo?
-[21:33:23] [Server thread/INFO]: [Not Secure] <Diegojg> o no
-[21:33:26] [Server thread/INFO]: [Not Secure] <Le0> no jsjs
-[21:33:42] [Server thread/INFO]: [Not Secure] <Le0> jsjs q wea hizo
-[21:33:44] [Server thread/INFO]: [Not Secure] <Diegojg> oe es pa prender fuego
-[21:33:48] [Server thread/INFO]: [Not Secure] <Diegojg> la wea mala
-[21:33:54] [Server thread/INFO]: [Not Secure] <Diegojg> mas encima funciona una vez
-[21:34:01] [Server thread/INFO]: [Not Secure] <Diegojg> oeeeee
-[21:34:10] [Server thread/INFO]: [Not Secure] <Diegojg> yo tenia uno de esos
-[21:34:13] [Server thread/INFO]: [Not Secure] <Diegojg> mejor lo traia
-[21:34:18] [Server thread/INFO]: [Not Secure] <Diegojg> re cara sale la mrd
-[21:34:19] [Server thread/INFO]: [Not Secure] <Le0> oe lo acabo de hacer
-[21:34:24] [Server thread/INFO]: [Not Secure] <Le0> jsjs si
-[21:35:57] [Server thread/INFO]: [Not Secure] <Diegojg> oe
-[21:36:02] [Server thread/INFO]: [Not Secure] <Diegojg> aca hay una pasada qla
-[21:36:27] [Server thread/INFO]: [Not Secure] <Le0> aonde
-[21:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1372, y=1, z=1114} jh{x=-1371, y=-1, z=1111}
-[21:37:16] [Server thread/INFO]: [Not Secure] <Diegojg> csm
+[22:02:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:02:12] [ServerMain/INFO]: Loaded 1337 recipes
+[22:02:12] [ServerMain/INFO]: Loaded 1448 advancements
+[22:02:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:02:12] [Server thread/INFO]: Loading properties
+[22:02:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:02:12] [Server thread/INFO]: Generating keypair
+[22:02:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:02:12] [Server thread/INFO]: Using epoll channel type
+[22:02:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:02:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:02:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:02:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:02:12] [Server thread/INFO]: Preparing level "world"
+[22:02:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:16] [Server thread/INFO]: Time elapsed: 3477 ms
+[22:02:16] [Server thread/INFO]: Done (3.772s)! For help, type "help"
+[22:03:09] [Server thread/INFO]: Summoned new Ghast
+[22:03:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:03:32] [Server thread/INFO]: Diegojg[/127.93.160.204:57135] logged in with entity id 37 at (-1218.6616037506276, 74.0, 1223.134158740271)
+[22:03:32] [Server thread/INFO]: Diegojg joined the game
+[22:06:53] [Server thread/INFO]: Le0[/127.181.217.6:34849] logged in with entity id 1152 at (-1355.6033308052947, 3.0, 1228.2570114120979)
+[22:06:53] [Server thread/INFO]: Le0 joined the game
+[22:15:36] [Server thread/INFO]: [Not Secure] <Le0> SOPA DE MIERDA
+[22:15:39] [Server thread/INFO]: [Not Secure] <Le0> aon tai
+[22:15:41] [Server thread/INFO]: [Not Secure] <Diegojg> ke wa
+[22:15:47] [Server thread/INFO]: [Not Secure] <Diegojg> arriba en mi house
+[22:16:28] [Server thread/INFO]: [Not Secure] <Diegojg> pq
+[22:16:39] [Server thread/INFO]: [Not Secure] <Le0> pa q te culee
+[22:16:42] [Server thread/INFO]: [Not Secure] <Le0> YIAH
+[22:16:46] [Server thread/INFO]: [Not Secure] <Diegojg> jasjsa
+[22:19:56] [Server thread/INFO]: Summoned new Ghast
+[22:20:05] [Server thread/INFO]: [Not Secure] <Le0> en vola hago mierda esto
+[22:20:09] [Server thread/INFO]: Can't find element 'minecraft:ghastn-1229' of type 'minecraft:entity_type'
+[22:20:09] [Server thread/INFO]: ...hastn-1229 100 1229<--[HERE]
+[22:20:11] [Server thread/INFO]: [Not Secure] <Diegojg> mira atras wn
+[22:20:20] [Server thread/INFO]: [Not Secure] <Diegojg> marge
+[22:20:23] [Server thread/INFO]: [Not Secure] <Diegojg> la pistola
+[22:20:27] [Server thread/INFO]: Can't find element 'minecraft:-1229' of type 'minecraft:entity_type'
+[22:20:27] [Server thread/INFO]: ...mmon -1229 100 1229<--[HERE]
+[22:20:42] [Server thread/INFO]: Summoned new Ghast
+[22:20:56] [Server thread/INFO]: Summoned new Ghast
+[22:21:21] [Server thread/INFO]: Diegojg has completed the challenge [Uneasy Alliance]
