@@ -350,6 +350,7 @@
       "cooked_porkchop": "2025-02-18 23:17:35 +0000",
       "apple": "2025-02-23 17:27:28 +0000",
       "bread": "2025-02-21 03:44:16 +0000",
+      "cooked_chicken": "2025-02-24 17:16:08 +0000",
       "rotten_flesh": "2025-02-18 23:08:35 +0000",
       "glow_berries": "2025-02-23 04:24:43 +0000",
       "cooked_beef": "2025-02-21 17:24:08 +0000",
@@ -2779,6 +2780,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 15:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 17:16:57 +0000"
     },
     "done": true
   },
