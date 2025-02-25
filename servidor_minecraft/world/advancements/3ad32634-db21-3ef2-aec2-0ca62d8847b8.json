@@ -331,6 +331,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-02-24 18:51:03 +0000",
       "minecraft:skeleton": "2025-02-18 23:16:58 +0000",
+      "minecraft:piglin": "2025-02-25 13:29:42 +0000",
       "minecraft:breeze": "2025-02-24 14:45:35 +0000",
       "minecraft:silverfish": "2025-02-24 18:47:22 +0000",
       "minecraft:witch": "2025-02-23 04:20:34 +0000",
@@ -2912,11 +2913,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-02-25 12:56:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-25 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-25 13:24:11 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
