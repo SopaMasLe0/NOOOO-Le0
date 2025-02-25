@@ -79,3 +79,7 @@
 [16:03:51] [Server thread/INFO]: ELPepsi[/127.157.107.220:43245] logged in with entity id 36526 at (-204.58759774966964, 43.0, 4.359259556396299)
 [16:03:51] [Server thread/INFO]: ELPepsi joined the game
 [16:04:48] [Server thread/INFO]: [ELPepsi: Set own game mode to Spectator Mode]
+[16:06:51] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
+[16:07:11] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[16:07:11] [Server thread/INFO]: ELPepsi left the game
+[16:08:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
