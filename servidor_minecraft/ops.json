@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3ad32634-db21-3ef2-aec2-0ca62d8847b8",
+    "name": "ELPepsi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
