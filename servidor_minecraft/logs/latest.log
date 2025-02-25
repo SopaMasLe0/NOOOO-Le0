@@ -25,3 +25,7 @@
 [01:22:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [01:27:18] [Server thread/INFO]: Diegojg[/127.93.160.204:36289] logged in with entity id 10 at (-1216.525291332713, 74.0, 1221.681463417451)
 [01:27:18] [Server thread/INFO]: Diegojg joined the game
+[01:35:25] [Server thread/INFO]: Le0[/127.181.217.6:37705] logged in with entity id 1353 at (-1239.6639917501561, 72.0, 1165.0023112018018)
+[01:35:25] [Server thread/INFO]: Le0 joined the game
+[01:35:26] [Server thread/WARN]: UUID of added entity already exists: cit['Sheep'/1618, l='ServerLevel[world]', x=-1305.48, y=71.00, z=975.95]
+[01:35:42] [Server thread/INFO]: [Not Secure] <Le0> sopa prepara el ano
