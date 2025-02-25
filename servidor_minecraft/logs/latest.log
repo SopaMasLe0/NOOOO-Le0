@@ -53,3 +53,18 @@
 [15:05:01] [Server thread/INFO]: [ELPepsi: Set own game mode to Spectator Mode]
 [15:07:30] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
 [15:07:33] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
+[15:28:52] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[15:28:52] [Server thread/INFO]: ELPepsi left the game
+[15:29:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:31:32] [Server thread/INFO]: ELPepsi[/127.157.107.220:52779] logged in with entity id 29536 at (-997.6269844219692, 61.281620734050705, 1605.0505557259653)
+[15:31:32] [Server thread/INFO]: ELPepsi joined the game
+[15:40:36] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[15:40:36] [Server thread/INFO]: ELPepsi left the game
+[15:41:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:42:17] [Server thread/INFO]: ELPepsi[/127.157.107.220:57195] logged in with entity id 32501 at (-1118.300000011921, 65.0, 1637.300000011921)
+[15:42:17] [Server thread/INFO]: ELPepsi joined the game
+[15:50:16] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[15:50:16] [Server thread/INFO]: ELPepsi left the game
+[15:51:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:52:06] [Server thread/INFO]: ELPepsi[/127.157.107.220:53259] logged in with entity id 34931 at (-1216.4588697644701, 74.0, 1228.5036285044312)
+[15:52:06] [Server thread/INFO]: ELPepsi joined the game

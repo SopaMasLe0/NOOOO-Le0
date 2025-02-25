@@ -7,29 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2025-02-24 15:59:15 +0000",
-      "minecraft:beach": "2025-02-21 16:19:18 +0000",
-      "minecraft:dark_forest": "2025-02-21 17:19:13 +0000",
       "minecraft:forest": "2025-02-21 16:23:18 +0000",
-      "minecraft:sparse_jungle": "2025-02-18 23:13:08 +0000",
-      "minecraft:river": "2025-02-21 16:21:56 +0000",
-      "minecraft:lukewarm_ocean": "2025-02-23 17:22:51 +0000",
       "minecraft:lush_caves": "2025-02-23 04:04:37 +0000",
-      "minecraft:dripstone_caves": "2025-02-24 14:12:39 +0000",
-      "minecraft:old_growth_birch_forest": "2025-02-21 16:32:07 +0000",
       "minecraft:desert": "2025-02-24 15:32:25 +0000",
       "minecraft:windswept_forest": "2025-02-21 16:24:09 +0000",
       "minecraft:jungle": "2025-02-23 17:06:11 +0000",
+      "minecraft:ocean": "2025-02-25 15:33:54 +0000",
       "minecraft:sunflower_plains": "2025-02-21 16:19:15 +0000",
-      "minecraft:swamp": "2025-02-21 16:23:10 +0000",
-      "minecraft:meadow": "2025-02-21 16:29:05 +0000",
       "minecraft:birch_forest": "2025-02-21 16:26:15 +0000",
       "minecraft:windswept_hills": "2025-02-21 16:23:01 +0000",
-      "minecraft:savanna": "2025-02-18 22:59:00 +0000",
       "minecraft:bamboo_jungle": "2025-02-23 17:25:25 +0000",
       "minecraft:wooded_badlands": "2025-02-24 15:32:12 +0000",
-      "minecraft:plains": "2025-02-18 22:59:09 +0000",
-      "minecraft:warm_ocean": "2025-02-24 15:37:41 +0000"
+      "minecraft:warm_ocean": "2025-02-24 15:37:41 +0000",
+      "minecraft:badlands": "2025-02-24 15:59:15 +0000",
+      "minecraft:beach": "2025-02-21 16:19:18 +0000",
+      "minecraft:dark_forest": "2025-02-21 17:19:13 +0000",
+      "minecraft:sparse_jungle": "2025-02-18 23:13:08 +0000",
+      "minecraft:river": "2025-02-21 16:21:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-23 17:22:51 +0000",
+      "minecraft:stony_shore": "2025-02-25 15:33:36 +0000",
+      "minecraft:dripstone_caves": "2025-02-24 14:12:39 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-21 16:32:07 +0000",
+      "minecraft:swamp": "2025-02-21 16:23:10 +0000",
+      "minecraft:meadow": "2025-02-21 16:29:05 +0000",
+      "minecraft:savanna": "2025-02-18 22:59:00 +0000",
+      "minecraft:plains": "2025-02-18 22:59:09 +0000"
     },
     "done": false
   },
@@ -3031,6 +3033,84 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-25 15:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-02-25 15:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-25 15:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-25 15:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-25 15:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-25 15:36:56 +0000"
     },
     "done": true
   },
