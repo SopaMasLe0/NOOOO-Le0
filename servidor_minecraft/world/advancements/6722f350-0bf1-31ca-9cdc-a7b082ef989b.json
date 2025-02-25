@@ -846,6 +846,7 @@
       "minecraft:silverfish": "2025-02-24 18:44:17 +0000",
       "minecraft:magma_cube": "2025-02-25 01:32:01 +0000",
       "minecraft:spider": "2025-02-19 03:01:54 +0000",
+      "minecraft:piglin_brute": "2025-02-25 04:05:29 +0000",
       "minecraft:zombie": "2025-02-19 02:27:07 +0000",
       "minecraft:creeper": "2025-02-23 03:31:30 +0000",
       "minecraft:zombie_villager": "2025-02-23 16:01:36 +0000"
@@ -3276,6 +3277,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-25 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-25 03:52:37 +0000"
     },
     "done": true
   },
