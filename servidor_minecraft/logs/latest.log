@@ -37,3 +37,6 @@
 [18:02:14] [Server thread/INFO]: ELPepsi left the game
 [18:02:16] [Server thread/INFO]: ELPepsi[/127.157.107.220:37137] logged in with entity id 3112 at (-136.31775512778452, 85.0, 186.39706611848533)
 [18:02:16] [Server thread/INFO]: ELPepsi joined the game
+[18:20:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1257, y=48, z=2035} jh{x=-1257, y=47, z=2035}
+[18:25:15] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
+[18:25:31] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
