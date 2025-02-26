@@ -40,3 +40,5 @@
 [18:20:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1257, y=48, z=2035} jh{x=-1257, y=47, z=2035}
 [18:25:15] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
 [18:25:31] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
+[18:36:37] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
+[18:36:48] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
