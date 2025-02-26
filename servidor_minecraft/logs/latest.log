@@ -1,26 +1,35 @@
-[01:39:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:39:35] [ServerMain/INFO]: Loaded 1337 recipes
-[01:39:35] [ServerMain/INFO]: Loaded 1448 advancements
-[01:39:35] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:39:35] [Server thread/INFO]: Loading properties
-[01:39:35] [Server thread/INFO]: Default game type: SURVIVAL
-[01:39:35] [Server thread/INFO]: Generating keypair
-[01:39:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:39:36] [Server thread/INFO]: Using epoll channel type
-[01:39:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:39:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:39:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:39:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:39:36] [Server thread/INFO]: Preparing level "world"
-[01:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:39] [Server thread/INFO]: Time elapsed: 2878 ms
-[01:39:39] [Server thread/INFO]: Done (3.111s)! For help, type "help"
-[01:40:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:42:04] [Server thread/INFO]: Diegojg[/127.141.109.126:36771] logged in with entity id 10 at (-54.22197169961277, 62.17675927506424, 210.70362296739717)
-[01:42:04] [Server thread/INFO]: Diegojg joined the game
+[02:31:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:31:39] [ServerMain/INFO]: Loaded 1337 recipes
+[02:31:39] [ServerMain/INFO]: Loaded 1448 advancements
+[02:31:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:31:39] [Server thread/INFO]: Loading properties
+[02:31:39] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:39] [Server thread/INFO]: Generating keypair
+[02:31:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:39] [Server thread/INFO]: Using epoll channel type
+[02:31:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:31:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:31:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:31:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:31:39] [Server thread/INFO]: Preparing level "world"
+[02:31:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:45] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[02:31:45] [Server thread/INFO]: Time elapsed: 5473 ms
+[02:31:45] [Server thread/INFO]: Done (5.863s)! For help, type "help"
+[02:32:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:39:04] [Server thread/INFO]: Diegojg[/127.111.228.223:46305] logged in with entity id 10 at (-1.699999988079071, 55.0, 212.99611983881618)
+[02:39:04] [Server thread/INFO]: Diegojg joined the game
+[02:40:46] [Server thread/INFO]: Le0[/127.181.217.6:40853] logged in with entity id 326 at (-1290.8889466297471, 67.0, 1236.1436425193212)
+[02:40:46] [Server thread/INFO]: Le0 joined the game
+[02:40:51] [Server thread/INFO]: [Not Secure] <Diegojg> noooosi
+[02:41:10] [Server thread/INFO]: [Not Secure] <Le0> tai asustao sopa
