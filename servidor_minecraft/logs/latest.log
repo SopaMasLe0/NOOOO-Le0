@@ -1,85 +1,26 @@
-[12:43:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:43:55] [ServerMain/INFO]: Loaded 1337 recipes
-[12:43:55] [ServerMain/INFO]: Loaded 1448 advancements
-[12:43:55] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[12:43:55] [Server thread/INFO]: Loading properties
-[12:43:55] [Server thread/INFO]: Default game type: SURVIVAL
-[12:43:55] [Server thread/INFO]: Generating keypair
-[12:43:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:43:55] [Server thread/INFO]: Using epoll channel type
-[12:43:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:43:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:43:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:43:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:43:56] [Server thread/INFO]: Preparing level "world"
-[12:43:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:43:59] [Server thread/INFO]: Time elapsed: 3598 ms
-[12:43:59] [Server thread/INFO]: Done (3.886s)! For help, type "help"
-[12:44:03] [Server thread/INFO]: ELPepsi[/127.157.107.220:41015] logged in with entity id 10 at (-1271.7055562297357, 83.0, 1233.2836568466746)
-[12:44:03] [Server thread/INFO]: ELPepsi joined the game
-[12:45:29] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[12:45:29] [Server thread/INFO]: ELPepsi left the game
-[12:46:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:52:22] [Server thread/INFO]: ELPepsi[/127.157.107.220:36619] logged in with entity id 574 at (-1266.300000011921, 61.579359586571364, 1277.300000011921)
-[12:52:22] [Server thread/INFO]: ELPepsi joined the game
-[12:56:27] [Server thread/INFO]: ELPepsi has made the advancement [The Parrots and the Bats]
-[13:33:17] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[13:33:17] [Server thread/INFO]: ELPepsi left the game
-[13:34:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:41:03] [Server thread/INFO]: ELPepsi[/127.157.107.220:58251] logged in with entity id 10105 at (-235.11623602939778, 94.0, 196.31945702056396)
-[13:41:03] [Server thread/INFO]: ELPepsi joined the game
-[13:49:35] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[13:49:35] [Server thread/INFO]: ELPepsi left the game
-[13:50:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:54:40] [Server thread/INFO]: ELPepsi[/127.157.107.220:47167] logged in with entity id 11413 at (-218.73388110744037, 79.0, 168.54507030681654)
-[13:54:40] [Server thread/INFO]: ELPepsi joined the game
-[14:15:52] [Server thread/INFO]: ELPepsi has made the advancement [Enchanter]
-[14:23:47] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[14:23:47] [Server thread/INFO]: ELPepsi left the game
-[14:24:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:38:34] [Server thread/INFO]: ELPepsi[/127.157.107.220:50611] logged in with entity id 17071 at (-1337.6753139421062, -48.0, 1274.8664664133742)
-[14:38:34] [Server thread/INFO]: ELPepsi joined the game
-[15:04:49] [Server thread/INFO]: Made ELPepsi a server operator
-[15:04:57] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
-[15:04:59] [Server thread/INFO]: [ELPepsi: Set own game mode to Adventure Mode]
-[15:05:01] [Server thread/INFO]: [ELPepsi: Set own game mode to Spectator Mode]
-[15:07:30] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
-[15:07:33] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
-[15:28:52] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[15:28:52] [Server thread/INFO]: ELPepsi left the game
-[15:29:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:31:32] [Server thread/INFO]: ELPepsi[/127.157.107.220:52779] logged in with entity id 29536 at (-997.6269844219692, 61.281620734050705, 1605.0505557259653)
-[15:31:32] [Server thread/INFO]: ELPepsi joined the game
-[15:40:36] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[15:40:36] [Server thread/INFO]: ELPepsi left the game
-[15:41:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:42:17] [Server thread/INFO]: ELPepsi[/127.157.107.220:57195] logged in with entity id 32501 at (-1118.300000011921, 65.0, 1637.300000011921)
-[15:42:17] [Server thread/INFO]: ELPepsi joined the game
-[15:50:16] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[15:50:16] [Server thread/INFO]: ELPepsi left the game
-[15:51:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:52:06] [Server thread/INFO]: ELPepsi[/127.157.107.220:53259] logged in with entity id 34931 at (-1216.4588697644701, 74.0, 1228.5036285044312)
-[15:52:06] [Server thread/INFO]: ELPepsi joined the game
-[15:56:11] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[15:56:11] [Server thread/INFO]: ELPepsi left the game
-[15:57:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:58:09] [Server thread/INFO]: ELPepsi[/127.157.107.220:54083] logged in with entity id 36044 at (-225.33796530234966, 85.0, 130.77479336159874)
-[15:58:09] [Server thread/INFO]: ELPepsi joined the game
-[16:00:47] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[16:00:47] [Server thread/INFO]: ELPepsi left the game
-[16:01:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:03:51] [Server thread/INFO]: ELPepsi[/127.157.107.220:43245] logged in with entity id 36526 at (-204.58759774966964, 43.0, 4.359259556396299)
-[16:03:51] [Server thread/INFO]: ELPepsi joined the game
-[16:04:48] [Server thread/INFO]: [ELPepsi: Set own game mode to Spectator Mode]
-[16:06:51] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
-[16:07:11] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[16:07:11] [Server thread/INFO]: ELPepsi left the game
-[16:08:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:39:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:39:35] [ServerMain/INFO]: Loaded 1337 recipes
+[01:39:35] [ServerMain/INFO]: Loaded 1448 advancements
+[01:39:35] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:39:35] [Server thread/INFO]: Loading properties
+[01:39:35] [Server thread/INFO]: Default game type: SURVIVAL
+[01:39:35] [Server thread/INFO]: Generating keypair
+[01:39:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:39:36] [Server thread/INFO]: Using epoll channel type
+[01:39:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:39:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:39:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:39:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:39:36] [Server thread/INFO]: Preparing level "world"
+[01:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:39:39] [Server thread/INFO]: Time elapsed: 2878 ms
+[01:39:39] [Server thread/INFO]: Done (3.111s)! For help, type "help"
+[01:40:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:42:04] [Server thread/INFO]: Diegojg[/127.141.109.126:36771] logged in with entity id 10 at (-54.22197169961277, 62.17675927506424, 210.70362296739717)
+[01:42:04] [Server thread/INFO]: Diegojg joined the game

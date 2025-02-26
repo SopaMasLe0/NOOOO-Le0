@@ -3233,9 +3233,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "crying_obsidian": "2025-02-25 03:31:55 +0000"
+      "bastion": "2025-02-25 03:09:25 +0000"
     },
     "done": true
   },
@@ -3248,30 +3248,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-25 03:09:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-02-25 04:09:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-25 04:25:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-02-25 03:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-02-25 03:31:43 +0000"
     },
     "done": true
   },
@@ -3293,33 +3269,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-25 03:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-25 04:25:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-25 03:09:54 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "bastion": "2025-02-25 03:09:25 +0000"
+      "has_polished_blackstone_bricks": "2025-02-25 03:09:54 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "ancient_debris": "2025-02-25 04:25:27 +0000"
+      "loot_bastion_other": "2025-02-25 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-25 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-25 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-25 03:52:37 +0000"
     },
     "done": true
   },
@@ -3329,9 +3311,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-25 03:09:54 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-02-25 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 04:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-25 04:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-25 04:25:27 +0000"
     },
     "done": true
   },
