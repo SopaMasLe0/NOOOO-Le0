@@ -1,108 +1,32 @@
-[13:44:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:44:18] [ServerMain/INFO]: Loaded 1337 recipes
-[13:44:18] [ServerMain/INFO]: Loaded 1448 advancements
-[13:44:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[13:44:18] [Server thread/INFO]: Loading properties
-[13:44:18] [Server thread/INFO]: Default game type: SURVIVAL
-[13:44:18] [Server thread/INFO]: Generating keypair
-[13:44:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:44:18] [Server thread/INFO]: Using epoll channel type
-[13:44:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:44:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:44:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:44:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:44:19] [Server thread/INFO]: Preparing level "world"
-[13:44:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:44:22] [Server thread/INFO]: Time elapsed: 3411 ms
-[13:44:22] [Server thread/INFO]: Done (3.696s)! For help, type "help"
-[13:45:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:46:56] [Server thread/INFO]: Le0[/127.181.217.6:58949] logged in with entity id 10 at (-1454.4801262297624, -53.0, 1174.9524630993071)
-[13:46:56] [Server thread/INFO]: Le0 joined the game
-[14:09:35] [Server thread/INFO]: ELPepsi[/127.157.107.220:50773] logged in with entity id 5131 at (41.92841259111217, 42.0, 81.1080844982014)
-[14:09:35] [Server thread/INFO]: ELPepsi joined the game
-[14:09:43] [Server thread/INFO]: [Not Secure] <ELPepsi> mierdas
-[14:09:59] [Server thread/INFO]: [Not Secure] <Le0> sus
-[14:13:12] [Server thread/INFO]: ELPepsi tried to swim in lava
-[14:14:13] [Server thread/INFO]: [Not Secure] <ELPepsi> la mierda
-[14:18:16] [Server thread/INFO]: Le0 was slain by Zombie Villager
-[14:18:25] [Server thread/INFO]: [Not Secure] <Le0> por la mierda bruja qla
-[14:24:03] [Server thread/INFO]: [Not Secure] <Le0> ei almo veo tu nombre qlo
-[14:24:12] [Server thread/INFO]: [Not Secure] <Le0> por la mierda no traje antorcha
-[14:24:23] [Server thread/INFO]: [Not Secure] <Le0> aca esta tu cofre qlo
-[14:25:56] [Server thread/INFO]: [Not Secure] <Le0> el tunel del chapo
-[14:26:00] [Server thread/INFO]: [Not Secure] <ELPepsi> nse como mierda llegue aqui won
-[14:26:10] [Server thread/INFO]: [Not Secure] <Le0> para alla esta tu cofre qlo
-[14:26:18] [Server thread/INFO]: [Not Secure] <Le0> voy a matar a la maraca de la bruja
-[14:26:21] [Server thread/INFO]: [Not Secure] <ELPepsi> susss
-[14:27:31] [Server thread/INFO]: [Not Secure] <Le0> oe teni flecha
-[14:27:37] [Server thread/INFO]: [Not Secure] <ELPepsi> una
-[14:28:07] [Server thread/INFO]: [Not Secure] <Le0> la wea no traje escudo xd
-[14:29:18] [Server thread/INFO]: [Not Secure] <ELPepsi> oe
-[14:29:26] [Server thread/INFO]: [Not Secure] <ELPepsi> hay q dejar este diamante qlo de aqui
-[14:29:40] [Server thread/INFO]: [Not Secure] <ELPepsi> pa sacarlo con fortuna
-[14:29:44] [Server thread/INFO]: [Not Secure] <ELPepsi> pero tengo q llegar a nivel 30
-[14:29:52] [Server thread/INFO]: [Not Secure] <Le0> habia un cerca de donde salimo
-[14:30:10] [Server thread/INFO]: [Not Secure] <ELPepsi> uno too mierda XD
-[14:30:54] [Server thread/INFO]: [Not Secure] <ELPepsi> a claro
-[14:36:06] [Server thread/INFO]: [Not Secure] <ELPepsi> hay caleta de diamonds
-[14:36:20] [Server thread/INFO]: [Not Secure] <Le0> marcalos wons
-[14:36:24] [Server thread/INFO]: [Not Secure] <ELPepsi> si wong
-[14:40:29] [Server thread/INFO]: [Not Secure] <ELPepsi> oye conchesumadre hay como 1 stack de diamante en todo este lugar qlo XDD
-[14:41:11] [Server thread/INFO]: [Not Secure] <Le0> quizas donde mierda andai
-[14:42:19] [Server thread/INFO]: [Not Secure] <ELPepsi> ando aki al lado de la entrada wong XD
-[14:43:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1586, y=-7, z=1230} jh{x=-1587, y=-6, z=1231}
-[14:46:09] [Server thread/INFO]: [Not Secure] <Le0> almohadilla
-[14:47:49] [Server thread/INFO]: [Not Secure] <ELPepsi> regurgitacion
-[14:48:00] [Server thread/INFO]: [Not Secure] <Le0> nosi
-[14:49:27] [Server thread/INFO]: [Not Secure] <Le0> la wea faltan escaleras xd
-[14:49:36] [Server thread/INFO]: [Not Secure] <ELPepsi> niooooooooooooooo ssi{}
-[14:50:35] [Server thread/INFO]: [Not Secure] <Le0> la ctm
-[14:51:02] [Server thread/INFO]: [Not Secure] <ELPepsi> oe es pa aca{
-[14:51:36] [Server thread/INFO]: [Not Secure] <ELPepsi> ahi ta rel puente
-[14:52:04] [Server thread/INFO]: [Not Secure] <Le0> aonde mierda te fuiste xd
-[14:52:11] [Server thread/INFO]: [Not Secure] <ELPepsi> oe por el rio
-[14:53:39] [Server thread/INFO]: [Not Secure] <ELPepsi> ioeee
-[14:53:58] [Server thread/INFO]: [Not Secure] <ELPepsi> aonde tai
-[14:54:10] [Server thread/INFO]: [Not Secure] <Le0> oe nose xd
-[14:54:16] [Server thread/INFO]: [Not Secure] <ELPepsi> oe vuelve
-[14:54:19] [Server thread/INFO]: [Not Secure] <ELPepsi> al joyo
-[14:54:23] [Server thread/INFO]: [Not Secure] <ELPepsi> si aca ta la casa
-[14:55:24] [Server thread/INFO]: [Not Secure] <ELPepsi> veni
-[14:56:54] [Server thread/INFO]: [Not Secure] <ELPepsi> mosambike
-[14:56:58] [Server thread/INFO]: [Not Secure] <Le0> cago casa de sopa
-[14:57:01] [Server thread/INFO]: [Not Secure] <ELPepsi> oe vuelvo en 10
-[14:57:07] [Server thread/INFO]: [Not Secure] <Le0> oe ya
-[14:57:09] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[14:57:09] [Server thread/INFO]: ELPepsi left the game
-[15:00:30] [Server thread/INFO]: Le0 lost connection: Disconnected
-[15:00:30] [Server thread/INFO]: Le0 left the game
-[15:01:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:34:49] [Server thread/INFO]: ELPepsi[/127.157.107.220:43351] logged in with entity id 19059 at (-1255.5204491514746, 68.9375, 1233.4140361688849)
-[15:34:49] [Server thread/INFO]: ELPepsi joined the game
-[15:41:54] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[15:41:54] [Server thread/INFO]: ELPepsi left the game
-[15:42:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:45:11] [Server thread/INFO]: ELPepsi[/127.157.107.220:44657] logged in with entity id 20163 at (-1255.5204491514746, 68.9375, 1233.4140361688849)
-[15:45:11] [Server thread/INFO]: ELPepsi joined the game
-[16:12:05] [Server thread/INFO]: ELPepsi has completed the challenge [Hot Tourist Destinations]
-[16:24:05] [Server thread/INFO]: ELPepsi was blown up by Creeper
-[16:27:15] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[16:27:15] [Server thread/INFO]: ELPepsi left the game
-[16:27:56] [Server thread/INFO]: ELPepsi[/127.157.107.220:53225] logged in with entity id 29699 at (-1520.9398963806848, -21.0, 1330.9556689725498)
-[16:27:56] [Server thread/INFO]: ELPepsi joined the game
-[16:29:03] [Server thread/INFO]: ELPepsi lost connection: Disconnected
-[16:29:03] [Server thread/INFO]: ELPepsi left the game
-[16:30:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:57:35] [Server thread/INFO]: ELPepsi[/127.157.107.220:56715] logged in with entity id 30076 at (-1546.133012712313, -16.0, 1256.0121698042942)
-[16:57:35] [Server thread/INFO]: ELPepsi joined the game
-[17:07:31] [Server thread/INFO]: ELPepsi has made the advancement [Cover Me with Diamonds]
-[17:10:37] [Server thread/INFO]: Le0[/127.181.217.6:36217] logged in with entity id 33929 at (-1264.51713609382, 87.0, 1239.901543650181)
-[17:10:37] [Server thread/INFO]: Le0 joined the game
-[17:10:45] [Server thread/INFO]: [Not Secure] <Le0> NOOOOOOOOOOOOOSIIIIIIIIIIIIIIIII
+[17:40:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:40:11] [ServerMain/INFO]: Loaded 1337 recipes
+[17:40:11] [ServerMain/INFO]: Loaded 1448 advancements
+[17:40:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[17:40:11] [Server thread/INFO]: Loading properties
+[17:40:11] [Server thread/INFO]: Default game type: SURVIVAL
+[17:40:11] [Server thread/INFO]: Generating keypair
+[17:40:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:40:11] [Server thread/INFO]: Using epoll channel type
+[17:40:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:40:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:40:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:40:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:40:11] [Server thread/INFO]: Preparing level "world"
+[17:40:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:40:15] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[17:40:15] [Server thread/INFO]: Time elapsed: 3081 ms
+[17:40:15] [Server thread/INFO]: Done (3.382s)! For help, type "help"
+[17:40:41] [Server thread/INFO]: ELPepsi[/127.157.107.220:42859] logged in with entity id 10 at (44.49998550035933, 67.72796424481366, -112.2095743603154)
+[17:40:41] [Server thread/INFO]: ELPepsi joined the game
+[17:42:13] [Server thread/INFO]: [ELPepsi: Set own game mode to Creative Mode]
+[17:42:17] [Server thread/INFO]: [ELPepsi: Set own game mode to Survival Mode]
+[17:46:48] [Server thread/INFO]: ELPepsi has made the advancement [Those Were the Days]
+[17:48:13] [Server thread/INFO]: ELPepsi has made the advancement [War Pigs]
+[17:49:45] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[17:49:45] [Server thread/INFO]: ELPepsi left the game
