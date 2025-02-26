@@ -33,3 +33,7 @@
 [17:50:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [17:51:24] [Server thread/INFO]: ELPepsi[/127.157.107.220:56115] logged in with entity id 1471 at (-27.30000001192093, 32.0, 204.96813320824603)
 [17:51:24] [Server thread/INFO]: ELPepsi joined the game
+[18:02:14] [Server thread/INFO]: ELPepsi lost connection: Disconnected
+[18:02:14] [Server thread/INFO]: ELPepsi left the game
+[18:02:16] [Server thread/INFO]: ELPepsi[/127.157.107.220:37137] logged in with entity id 3112 at (-136.31775512778452, 85.0, 186.39706611848533)
+[18:02:16] [Server thread/INFO]: ELPepsi joined the game
